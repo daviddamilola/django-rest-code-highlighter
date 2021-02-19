@@ -1,2 +1,2 @@
 # django-rest-code-highlighter
-a tutorial for django rest framework
+highlight any program in any language 
