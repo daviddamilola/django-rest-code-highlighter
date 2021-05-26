@@ -1,6 +1,7 @@
 asgiref==3.3.1
 Django==3.1.5
 djangorestframework==3.12.2
+drf-yasg==1.17.1
 Pygments==2.7.4
 pytz==2020.5
 sqlparse==0.4.1
